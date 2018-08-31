@@ -1,0 +1,10 @@
+/Users/alibek/Documents/GitHub/dotNetCoreServer/TCPServerDotNet/obj/Debug/netcoreapp2.0/TCPServerDotNet.csproj.CoreCompileInputs.cache
+/Users/alibek/Documents/GitHub/dotNetCoreServer/TCPServerDotNet/obj/Debug/netcoreapp2.0/TCPServerDotNet.AssemblyInfoInputs.cache
+/Users/alibek/Documents/GitHub/dotNetCoreServer/TCPServerDotNet/obj/Debug/netcoreapp2.0/TCPServerDotNet.AssemblyInfo.cs
+/Users/alibek/Documents/GitHub/dotNetCoreServer/TCPServerDotNet/bin/Debug/netcoreapp2.0/TCPServerDotNet.deps.json
+/Users/alibek/Documents/GitHub/dotNetCoreServer/TCPServerDotNet/bin/Debug/netcoreapp2.0/TCPServerDotNet.runtimeconfig.json
+/Users/alibek/Documents/GitHub/dotNetCoreServer/TCPServerDotNet/bin/Debug/netcoreapp2.0/TCPServerDotNet.runtimeconfig.dev.json
+/Users/alibek/Documents/GitHub/dotNetCoreServer/TCPServerDotNet/bin/Debug/netcoreapp2.0/TCPServerDotNet.dll
+/Users/alibek/Documents/GitHub/dotNetCoreServer/TCPServerDotNet/bin/Debug/netcoreapp2.0/TCPServerDotNet.pdb
+/Users/alibek/Documents/GitHub/dotNetCoreServer/TCPServerDotNet/obj/Debug/netcoreapp2.0/TCPServerDotNet.dll
+/Users/alibek/Documents/GitHub/dotNetCoreServer/TCPServerDotNet/obj/Debug/netcoreapp2.0/TCPServerDotNet.pdb
